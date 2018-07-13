@@ -1,2 +1,2 @@
 # makereddit
-Final working version of MakeReddit.
+This is a final working version of MakeReddit, a clone of Reddit.
